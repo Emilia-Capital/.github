@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-You can report any security bugs found in the source code of this plugin through the Patchstack Vulnerability Disclosure Program(https://patchstack.com/database/vdp/). Please search for the plugin in their database and use the appropriate page to submit the issue. The Patchstack team will assist you with verification, CVE assignment and take care of notifying the developers of this plugin.
+You can report any security bugs found in the source code of this plugin through the [Patchstack Vulnerability Disclosure Program](https://patchstack.com/database/vdp/). Please search for the plugin in their database and use the appropriate page to submit the issue. The Patchstack team will assist you with verification, CVE assignment and take care of notifying the developers of this plugin.
 
 ## Responding to Vulnerability Reports
 
