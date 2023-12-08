@@ -1,0 +1,1 @@
+This is the `.github` repo for Emilia Capital, it houses all the [community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) that can be shared across our diferent repositories.
