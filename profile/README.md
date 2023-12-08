@@ -10,7 +10,9 @@ Current investments include:
 * [Castos](https://github.com/CastosHQ)
 * [Equalize Digital](https://github.com/equalizedigital/)
 * [Extendify](https://github.com/extendify)
+* [Kanoppi](https://github.com/kanoppi-co)
 * [Peerby](https://github.com/Peerby)
+* [Post Status](https://github.com/Post-Status)
 
 ## Emilia Projects
 [Emilia Projects](https://emilia.capital/projects/) is their projects company, from which they launch new products like [Empowerwoment](https://empowerwoment.academy/) & [Fewer Tags](https://github.com/Emilia-Capital/fewer-tags).
