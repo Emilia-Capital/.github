@@ -2,6 +2,9 @@
 name: Feature request
 about: Suggest an idea for this project
 labels: ["enhancement"]
+assignees:
+  - jdevalk
+  - aristath
 ---
 
 <!-- Before opening a new issue, please search for duplicate issues to prevent opening a duplicate feature request. If there is already an open existing request, please leave a comment there. -->
